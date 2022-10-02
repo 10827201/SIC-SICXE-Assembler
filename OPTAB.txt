@@ -1,0 +1,59 @@
+add	m	18	3/4	 
+addf	m	58	3/4	X
+addr	r1,r2	90	2	X	
+and	m	40	3/4	 
+clear	r1	B4	2	X
+comp	m	28	3/4	 
+compf	m	88	3/4	X
+compr	r1,r2	A0	2	X
+div	m	24	3/4	 
+divf	m	64	3/4	X
+divr	r1,r2	9C	2	X
+fix	 	C4	1	X
+float	 	C0	1	X
+hio	 	F4	1	X
+j	m	3C	3/4	 
+jeq	m	30	3/4	 
+jgt	m	34	3/4	 
+jlt	m	38	3/4	 
+jsub	m	48	3/4	 
+lda	m	00	3/4	 
+ldb	m	68	3/4	X
+ldch	m	50	3/4	 
+ldf	m	70	3/4	X
+ldl	m	08	3/4	 
+lds	m	6C	3/4	X
+ldt	m	74	3/4	X
+ldx	m	04	3/4	 
+lps	m	D0	3/4	X
+mul	m	20	3/4	 
+mulf	m	60	3/4	X
+mulr	r1,r2	98	2	X
+norm	 	C8	1	X
+or	m	44	3/4	 
+rd	m	D8	3/4	 
+rmo	r1,r2	AC	2	X
+rsub	 	4C	3/4	 
+shiftl	r1,n	A4	2	X
+shiftr	r1,n	A8	2	X
+sio	 	F0	1	X
+ssk	m	EC	3/4	X
+sta	m	0C	3/4	 
+stb	m	78	3/4	X
+stch	m	54	3/4	 
+stf	m	80	3/4	X
+sti	m	D4	3/4	X
+stl	m	14	3/4	 
+sts	m	7C	3/4	X
+stsw	m	E8	3/4	 
+stt	m	84	3/4	X
+stx	m	10	3/4	 
+sub	m	1C	3/4	 
+subf	m	5C	3/4	X
+subr	r1,r2	94	2	X
+svc	n	B0	2	X
+td	m	E0	3/4	 	 
+tio	 	F8	1	X
+tix	m	2C	3/4	 
+tixr	r1	B8	2	X
+wd	m	DC	3/4	 
