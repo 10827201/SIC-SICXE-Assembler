@@ -1,4 +1,4 @@
-# -SIC-SICXE-Assembler
+# SIC-SICXE-Assembler
 開發平台 :Windows  
 使用開發環境 : Dev C++  
 使用的程式語言 : C++   
